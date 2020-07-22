@@ -10,4 +10,6 @@ switch
 breadboard
 ATmega2560 Microcontroller
 
-Description: Several LEDs are manipulated with a switch to change the rate at which they blink by using SFR Macros and bit manipulation.
+Description: 
+
+Several LEDs are manipulated with a switch to change the rate at which they blink by using SFR Macros and bit manipulation.
