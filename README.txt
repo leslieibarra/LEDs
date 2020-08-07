@@ -1,7 +1,7 @@
 # LEDs
-LAB 1- ECE 372a - UArizona
+LAB 1 - ECE 372a - UArizona
 
-Stuff:
+Stuff Needed:
 
 8 LEDs
 8 resistors
