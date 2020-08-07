@@ -1,8 +1,4 @@
-// Author:  Leslie Ibarra
-// Net ID:  leslieibarra
-// Date:    02/03/2020
-// Assignment:  LAB 1
-//----------------------------------------------------------------------//
+
 #ifndef LED_H
 #define LED_H
 
