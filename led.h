@@ -17,7 +17,7 @@ void turnOnLED(unsigned int LEDNUM);
 // turnOffLED which returns voiD and takes a parameter
 void turnOffLED(unsigned int LEDNUM);
 
-//testLED which returns void and takes a parameter
+// testLED which returns void and takes a parameter
 void testLED(unsigned int LEDNUM);
 
 #endif
