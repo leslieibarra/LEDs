@@ -1,8 +1,11 @@
-// Programmer:  Leslie Ibarra
-// Net ID:  leslieibarra
-// Date:    02/03/2020
-// Assignment:  LAB 1
+  
 //----------------------------------------------------------------------//
+// Programmer: Leslie Ibarra    
+// Date: 02/03/2020
+// Course: UArizona - ECE 372a
+// Assignment: LAB 1
+//----------------------------------------------------------------------//
+
 #ifndef SWITCH_H
 #define SWITCH_H
 
