@@ -12,7 +12,7 @@
 void initLED()  {
       //Initialize physical pins on the development board to outputs
       //DDRBBXn sets pin direction as output
-      DDRB |=  (1 << DDB2);
+      DDRB |= (1 << DDB2);
       DDRL |= (1 << DDL0) | (1 << DDL2) | (1 << DDL4) | (1 << DDL6);
       DDRG |= (1 << DDG0) | (1 << DDG2);
       DDRC |= (1 << DDC0);
